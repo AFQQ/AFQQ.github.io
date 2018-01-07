@@ -1,2 +1,2 @@
 1-szy projekt
-<li><a href="Flappy Birds">https://afqq.github.io/flappy/</a></li>
+<li><a href="https://afqq.github.io/flappy/">https://afqq.github.io/flappy/</a></li>
